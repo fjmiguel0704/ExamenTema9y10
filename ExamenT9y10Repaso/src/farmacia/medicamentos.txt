@@ -1,0 +1,2 @@
+1;Paracetamol;Mejora el cuerpo;5.0;Ayuda
+2;Ibuprofeno;Baja inflamaciones;5.5;Ayuda
